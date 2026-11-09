@@ -1,0 +1,19 @@
+{
+  "name": "aitrainingdatabroker",
+  "version": "1.0.0",
+  "description": "Command line for the AI Training Data Broker blog: search and read answers on licensing company data to AI labs (pricing, legality, de-identification, exclusivity, RL data).",
+  "keywords": ["ai training data", "data licensing", "sell company data", "ai labs", "de-identification", "rl data", "mcp", "cli"],
+  "homepage": "https://aitrainingdatabroker.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitrainingdatabroker/blog-mcp-server.git",
+    "directory": "cli"
+  },
+  "bugs": { "url": "https://github.com/aitrainingdatabroker/blog-mcp-server/issues" },
+  "author": "AI Training Data Broker (https://aitrainingdatabroker.com)",
+  "license": "MIT",
+  "type": "module",
+  "bin": { "aitdb": "bin/aitdb.mjs" },
+  "files": ["bin", "README.md"],
+  "engines": { "node": ">=18" }
+}
