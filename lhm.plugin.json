@@ -1,5 +1,6 @@
 {
-  "name": "aitrainingdatabroker",
+  "identifier": "aitrainingdatabroker-blog",
+  "name": "AI Training Data Broker Blog",
   "version": "1.0.0",
   "description": "Read-only blog MCP server: how companies license their data to AI labs.",
   "homepage": "https://aitrainingdatabroker.com",
