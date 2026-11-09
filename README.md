@@ -41,3 +41,11 @@ Add the server URL `https://aitrainingdatabroker.com/api/mcp` as a remote MCP se
 - Contact: https://aitrainingdatabroker.com/contact/
 - Privacy: https://aitrainingdatabroker.com/privacy/
 - Terms: https://aitrainingdatabroker.com/terms/
+
+## Agent skill
+
+`skills/ai-training-data-licensing/SKILL.md` teaches an agent to use this server. Install it with:
+
+```
+npx skills add aitrainingdatabroker/blog-mcp-server
+```
