@@ -44,7 +44,7 @@ Add the server URL `https://aitrainingdatabroker.com/api/mcp` as a remote MCP se
 
 ## Agent skill
 
-`skills/ai-training-data-licensing/SKILL.md` teaches an agent to use this server. Install it with:
+The `skills/` folder has 12 agent skills that teach an agent to use this server: licensing overview, de-identification, exclusive vs non-exclusive licenses, pricing, legality, call prep, workflow data, RL data, RL environment value, call center recordings, security data and buying licensed data. Install them with:
 
 ```
 npx skills add aitrainingdatabroker/blog-mcp-server
