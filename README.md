@@ -49,3 +49,7 @@ The `skills/` folder has 12 agent skills that teach an agent to use this server:
 ```
 npx skills add aitrainingdatabroker/blog-mcp-server
 ```
+
+## Command line
+
+`cli/` is the `aitrainingdatabroker` npm package: `aitdb search`, `aitdb latest`, `aitdb get`.
