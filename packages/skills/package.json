@@ -1,0 +1,38 @@
+{
+  "name": "aitrainingdatabroker-skills",
+  "version": "1.0.0",
+  "description": "12 agent skills on licensing company data to AI labs: pricing, legality, de-identification, exclusivity, RL data, call center and security data. One command installs them into a project.",
+  "keywords": [
+    "agent skills",
+    "claude code skills",
+    "SKILL.md",
+    "ai training data",
+    "data licensing",
+    "de-identification",
+    "rl data",
+    "mcp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitrainingdatabroker/blog-mcp-server.git",
+    "directory": "packages/skills"
+  },
+  "bin": {
+    "aitdb-skills": "bin/aitdb-skills.mjs"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "README.md"
+  ],
+  "license": "MIT",
+  "homepage": "https://aitrainingdatabroker.com",
+  "bugs": {
+    "url": "https://github.com/aitrainingdatabroker/blog-mcp-server/issues"
+  },
+  "author": "AI Training Data Broker (https://aitrainingdatabroker.com)",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}

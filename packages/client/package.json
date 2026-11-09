@@ -1,0 +1,42 @@
+{
+  "name": "@aitrainingdatabroker/client",
+  "version": "1.0.0",
+  "description": "Small zero-dependency JavaScript client for the AI Training Data Broker blog MCP server: latest, search and read articles on licensing company data to AI labs.",
+  "keywords": [
+    "ai training data",
+    "data licensing",
+    "mcp client",
+    "mcp",
+    "ai agents",
+    "typescript",
+    "sell company data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitrainingdatabroker/blog-mcp-server.git",
+    "directory": "packages/client"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "license": "MIT",
+  "homepage": "https://aitrainingdatabroker.com",
+  "bugs": {
+    "url": "https://github.com/aitrainingdatabroker/blog-mcp-server/issues"
+  },
+  "author": "AI Training Data Broker (https://aitrainingdatabroker.com)",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}

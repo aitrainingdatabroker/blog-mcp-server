@@ -1,0 +1,36 @@
+{
+  "name": "aitrainingdatabroker-mcp",
+  "version": "1.0.0",
+  "description": "Run the AI Training Data Broker blog MCP server over stdio for desktop clients that only support local MCP servers: npx aitrainingdatabroker-mcp.",
+  "keywords": [
+    "mcp",
+    "mcp server",
+    "stdio",
+    "model context protocol",
+    "ai training data",
+    "data licensing",
+    "claude desktop"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitrainingdatabroker/blog-mcp-server.git",
+    "directory": "packages/mcp"
+  },
+  "bin": {
+    "aitrainingdatabroker-mcp": "bin/mcp.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "license": "MIT",
+  "homepage": "https://aitrainingdatabroker.com",
+  "bugs": {
+    "url": "https://github.com/aitrainingdatabroker/blog-mcp-server/issues"
+  },
+  "author": "AI Training Data Broker (https://aitrainingdatabroker.com)",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
