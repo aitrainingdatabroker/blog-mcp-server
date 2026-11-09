@@ -36,7 +36,7 @@ Add the server URL `https://aitrainingdatabroker.com/api/mcp` as a remote MCP se
 
 - Home: https://aitrainingdatabroker.com
 - Check if your company's data qualifies: https://aitrainingdatabroker.com/sell/
-- Free data value calculator: https://aitrainingdatabroker.com/calculator/
+- Free data value calculator: https://aitrainingdatabroker.com/tools/data-value-calculator/
 - Blog: https://aitrainingdatabroker.com/blog/
 - Contact: https://aitrainingdatabroker.com/contact/
 - Privacy: https://aitrainingdatabroker.com/privacy/
