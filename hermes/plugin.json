@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aitrainingdatabroker",
+  "version": "1.0.0",
+  "description": "Read-only blog MCP server and skill: answers questions about licensing company data to AI labs (pricing, legality, de-identification, exclusivity, RL data).",
+  "author": {
+    "name": "AI Training Data Broker",
+    "url": "https://aitrainingdatabroker.com"
+  },
+  "homepage": "https://aitrainingdatabroker.com",
+  "repository": "https://github.com/aitrainingdatabroker/blog-mcp-server",
+  "keywords": ["AI training data", "data licensing", "sell company data", "de-identification", "RL data", "mcp"],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "aitrainingdatabroker": { "trust": "untrusted" }
+      }
+    }
+  }
+}
