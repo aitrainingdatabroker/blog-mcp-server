@@ -1,6 +1,6 @@
 ---
 name: what-ai-labs-pay-for-company-data
-description: Explain what AI labs pay for company data: published ranges, reported deal prices and what moves the number up or down. Use when a user asks how much their company data is worth or what a data licensing deal pays.
+description: "Explain what AI labs pay for company data: published ranges, reported deal prices and what moves the number up or down. Use when a user asks how much their company data is worth or what a data licensing deal pays."
 ---
 
 # What ai labs pay for company data

@@ -1,6 +1,6 @@
 ---
 name: rl-data-and-environments
-description: Explain RL data for business owners: reinforcement learning environments, graders and trajectories, and why AI labs ask for them. Use when a user asks what RL data or an RL environment is.
+description: "Explain RL data for business owners: reinforcement learning environments, graders and trajectories, and why AI labs ask for them. Use when a user asks what RL data or an RL environment is."
 ---
 
 # Rl data and environments

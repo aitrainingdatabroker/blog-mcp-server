@@ -1,6 +1,6 @@
 ---
 name: security-data-for-ai-labs
-description: Explain what a security company can license to AI labs: alerts, investigation write-ups, offensive security environments, black-box and white-box tasks, and CWE references. Use when a user works in cybersecurity and asks what AI labs want.
+description: "Explain what a security company can license to AI labs: alerts, investigation write-ups, offensive security environments, black-box and white-box tasks, and CWE references. Use when a user works in cybersecurity and asks what AI labs want."
 ---
 
 # Security data for ai labs

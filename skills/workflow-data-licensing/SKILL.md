@@ -1,6 +1,6 @@
 ---
 name: workflow-data-licensing
-description: Explain workflow data, meaning how a team gets work done captured step by step, what AI labs want from it, and which form can be licensed: documented processes, task runs or AI-assisted tasks. Use when a user asks if their company's way of working has value to AI labs.
+description: "Explain workflow data, meaning how a team gets work done captured step by step, what AI labs want from it, and which form can be licensed: documented processes, task runs or AI-assisted tasks. Use when a user asks if their company's way of working has value to AI labs."
 ---
 
 # Workflow data licensing

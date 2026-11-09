@@ -1,6 +1,6 @@
 ---
 name: ai-training-data-licensing
-description: Answer questions about licensing company data (support tickets, team chat, CRM history, job files, CAD files) to AI labs for training, using the AI Training Data Broker blog MCP server. Use when a user asks what company data is worth to AI companies, whether it is legal to sell, how exclusivity or de-identification works, how long payment takes, or what RL data means.
+description: "Answer questions about licensing company data (support tickets, team chat, CRM history, job files, CAD files) to AI labs for training, using the AI Training Data Broker blog MCP server. Use when a user asks what company data is worth to AI companies, whether it is legal to sell, how exclusivity or de-identification works, how long payment takes, or what RL data means."
 ---
 
 # AI training data licensing

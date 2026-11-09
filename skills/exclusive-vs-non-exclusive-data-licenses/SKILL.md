@@ -1,6 +1,6 @@
 ---
 name: exclusive-vs-non-exclusive-data-licenses
-description: Compare exclusive and non-exclusive data licenses for a company licensing its records to AI labs: price, control and risk. Use when a user asks whether to give one AI lab exclusivity or license to several, or what exclusive means in a data deal.
+description: "Compare exclusive and non-exclusive data licenses for a company licensing its records to AI labs: price, control and risk. Use when a user asks whether to give one AI lab exclusivity or license to several, or what exclusive means in a data deal."
 ---
 
 # Exclusive vs non exclusive data licenses

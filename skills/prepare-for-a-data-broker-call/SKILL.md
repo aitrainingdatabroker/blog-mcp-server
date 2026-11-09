@@ -1,6 +1,6 @@
 ---
 name: prepare-for-a-data-broker-call
-description: Give a checklist of what a company owner should have ready before talking to a data broker about licensing data to AI labs: counts, years of records and one complete sample. Use when a user is about to sell or license company data and asks how to prepare.
+description: "Give a checklist of what a company owner should have ready before talking to a data broker about licensing data to AI labs: counts, years of records and one complete sample. Use when a user is about to sell or license company data and asks how to prepare."
 ---
 
 # Prepare for a data broker call

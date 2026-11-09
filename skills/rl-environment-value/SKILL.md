@@ -1,6 +1,6 @@
 ---
 name: rl-environment-value
-description: List what makes an RL environment worth more to an AI lab: a checker that cannot be fooled, many variations, real difficulty, a clear datasheet, clean rights and privacy; also benchmark contamination and private environments. Use when a user builds or wants to license RL environments.
+description: "List what makes an RL environment worth more to an AI lab: a checker that cannot be fooled, many variations, real difficulty, a clear datasheet, clean rights and privacy; also benchmark contamination and private environments. Use when a user builds or wants to license RL environments."
 ---
 
 # Rl environment value

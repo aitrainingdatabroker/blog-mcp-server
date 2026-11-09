@@ -1,6 +1,6 @@
 ---
 name: sell-call-center-recordings-to-ai
-description: Explain whether a call center or BPO can license recorded calls to AI labs: whose calls they are, who agreed to be recorded, and what voices and card numbers reveal. Use when a user runs a call center or holds call recordings.
+description: "Explain whether a call center or BPO can license recorded calls to AI labs: whose calls they are, who agreed to be recorded, and what voices and card numbers reveal. Use when a user runs a call center or holds call recordings."
 ---
 
 # Sell call center recordings to ai

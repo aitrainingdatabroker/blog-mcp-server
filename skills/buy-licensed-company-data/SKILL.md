@@ -1,6 +1,6 @@
 ---
 name: buy-licensed-company-data
-description: Help an AI lab or model team source licensed company workflow data: the four routes, how to judge provenance, and how to brief a data request. Use when a user is a buyer asking where to get licensed enterprise data for training.
+description: "Help an AI lab or model team source licensed company workflow data: the four routes, how to judge provenance, and how to brief a data request. Use when a user is a buyer asking where to get licensed enterprise data for training."
 ---
 
 # Buy licensed company data

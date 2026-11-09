@@ -1,6 +1,6 @@
 ---
 name: is-it-legal-to-sell-company-data
-description: Explain whether a company can legally sell or license its data to AI labs: the questions that decide it, what data broker laws cover, who carries the risk, and the UK Data (Use and Access) Act 2025. Use when a user asks if selling company data to an AI lab is legal.
+description: "Explain whether a company can legally sell or license its data to AI labs: the questions that decide it, what data broker laws cover, who carries the risk, and the UK Data (Use and Access) Act 2025. Use when a user asks if selling company data to an AI lab is legal."
 ---
 
 # Is it legal to sell company data

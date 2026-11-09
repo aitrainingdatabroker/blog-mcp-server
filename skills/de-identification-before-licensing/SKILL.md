@@ -1,6 +1,6 @@
 ---
 name: de-identification-before-licensing
-description: Explain how personal details are removed from company records (support tickets, chat, call recordings, CRM history) before they are licensed to an AI lab. Use when a user asks about de-identification, anonymizing, redacting or removing personal data before selling or licensing company data.
+description: "Explain how personal details are removed from company records (support tickets, chat, call recordings, CRM history) before they are licensed to an AI lab. Use when a user asks about de-identification, anonymizing, redacting or removing personal data before selling or licensing company data."
 ---
 
 # De identification before licensing
